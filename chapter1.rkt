@@ -1,0 +1,3 @@
+; (define atom?
+;   (lambda (x)
+;     (...)))
