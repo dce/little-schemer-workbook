@@ -1,7 +1,7 @@
 (require racket/include)
 
 (include "chapter1.rkt")
-; (include "chapter2.rkt")
+(include "chapter2.rkt")
 ; (include "chapter3.rkt")
 ; (include "chapter4.rkt")
 ; (include "chapter5.rkt")
