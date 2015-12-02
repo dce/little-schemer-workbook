@@ -5,7 +5,7 @@
 (include "chapter3.rkt")
 (include "chapter4.rkt")
 (include "chapter5.rkt")
-; (include "chapter6.rkt")
+(include "chapter6.rkt")
 ; (include "chapter7.rkt")
 ; (include "chapter8.rkt")
 ; (include "chapter9.rkt")
